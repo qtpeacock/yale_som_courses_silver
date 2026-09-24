@@ -4,3 +4,5 @@ __pycache__/
 node_modules/
 *.zip
 *.db
+# ...but ship the course database with this fork
+!data/yale_som.db
